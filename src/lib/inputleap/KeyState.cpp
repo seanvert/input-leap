@@ -34,7 +34,7 @@ static const KeyID s_decomposeTable[] = {
     0x00b4, 0x0301, 0x0020, 0, // acute,        dead_acute,       space
     0x005e, 0x0302, 0x0020, 0, // asciicircum,  dead_circumflex,  space
     0x007e, 0x0303, 0x0020, 0, // asciitilde,   dead_tilde,       space
-    0x00a8, 0x0308, 0x0020, 0, // diaeresis,    dead_diaeresis,   space
+    0x0022, 0x0308, 0x0020, 0, // diaeresis,    dead_diaeresis,   space
     0x00b0, 0x030a, 0x0020, 0, // degree,       dead_abovering,   space
     0x00b8, 0x0327, 0x0020, 0, // cedilla,      dead_cedilla,     space
     0x02db, 0x0328, 0x0020, 0, // ogonek,       dead_ogonek,      space
